@@ -1,0 +1,2 @@
+# firstgitproject
+trying out git
